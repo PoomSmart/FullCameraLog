@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "FullCameraLogSettings";
+		cell = PSLinkCell;
+		detail = "FullCameraLogPreferenceController";
+		icon = "FullCameraLog.png";
+		isController = 1;
+		label = "FullCameraLog";
+	};
+}
