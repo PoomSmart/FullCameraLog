@@ -1,7 +1,7 @@
 FullCameraLog
 ==========
 
-Log all Camera Information.
+Logs detailed Camera Information.
 
 Requirement
 ==========
