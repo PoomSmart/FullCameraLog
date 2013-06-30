@@ -1,4 +1,4 @@
-Package: com.PS.FullCameraLog
+Package: org.thebigboss.FullCameraLog
 Name: FullCameraLog
 Depends: mobilesubstrate, preferenceloader, gsc.still-camera
 Version: 0.0.1
