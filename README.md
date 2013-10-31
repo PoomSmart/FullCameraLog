@@ -8,5 +8,5 @@ Requirement
 
 - iDevices with Camera
 
-Tested in iOS 6.1.2
+Compatible with iOS 5 & 6.
 
