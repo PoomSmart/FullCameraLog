@@ -1,10 +1,10 @@
 Package: org.thebigboss.FullCameraLog
 Name: FullCameraLog
-Depends: mobilesubstrate, preferenceloader, gsc.still-camera
+Depends: mobilesubstrate, preferenceloader, gsc.still-camera | gsc.front-facing-camera
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Log all Camera information, done by Apple.
 Maintainer: PoomSmart
 Author: PoomSmart
 Section: Tweaks
-Icon: file:///Library/PreferenceBundles/FullCameraLogSettings.bundle/FullCameraLog@2x.png
+Icon: file:///Library/PreferenceLoader/Preferences/FullCameraLog/FullCameraLog@2x.png
