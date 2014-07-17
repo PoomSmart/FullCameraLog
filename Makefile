@@ -1,7 +1,7 @@
 GO_EASY_ON_ME = 1
+ARCHS = armv7 arm64
 
 include theos/makefiles/common.mk
-export ARCHS = armv7
 TWEAK_NAME = FullCameraLog
 FullCameraLog_FILES = FullCameraLog.xm
 
